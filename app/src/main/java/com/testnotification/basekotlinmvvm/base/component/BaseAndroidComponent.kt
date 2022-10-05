@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base
+package com.testnotification.basekotlinmvvm.base.component
 
 import android.os.Bundle
 import android.view.ViewGroup

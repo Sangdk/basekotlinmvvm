@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base.activity
+package com.testnotification.basekotlinmvvm.base.component.activity
 
 import android.os.Build
 import android.view.View

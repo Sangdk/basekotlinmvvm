@@ -1,9 +1,9 @@
-package com.testnotification.basekotlinmvvm.base.activity
+package com.testnotification.basekotlinmvvm.base.component.activity
 
 import android.view.WindowManager
 import androidx.viewbinding.ViewBinding
 
-class NormalActivity<VB : ViewBinding> : BaseActivity<VB>() {
+open class NormalActivity<VB : ViewBinding> : BaseActivity<VB>() {
     override fun onAttachedToWindow() {
         super.onAttachedToWindow()
         val params: WindowManager.LayoutParams = window.attributes

@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base
+package com.testnotification.basekotlinmvvm.base.component
 
 import android.app.AlertDialog
 import android.content.Context

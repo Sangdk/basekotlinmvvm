@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base
+package com.testnotification.basekotlinmvvm.base.component
 
 import android.annotation.SuppressLint
 import android.app.Dialog
@@ -15,6 +15,7 @@ import com.google.android.material.bottomsheet.BottomSheetBehavior.*
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.testnotification.basekotlinmvvm.R
+import com.testnotification.basekotlinmvvm.utils.AppPreferences
 import com.testnotification.basekotlinmvvm.utils.exts.findFragment
 import com.testnotification.basekotlinmvvm.utils.exts.inflateViewBinding
 import com.testnotification.basekotlinmvvm.utils.exts.registerEventBusBy

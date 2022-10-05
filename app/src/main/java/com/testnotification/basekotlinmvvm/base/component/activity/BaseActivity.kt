@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base.activity
+package com.testnotification.basekotlinmvvm.base.component.activity
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,7 +8,7 @@ import androidx.annotation.CallSuper
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.DialogFragment
 import androidx.viewbinding.ViewBinding
-import com.testnotification.basekotlinmvvm.base.BaseAndroidComponent
+import com.testnotification.basekotlinmvvm.base.component.BaseAndroidComponent
 import com.testnotification.basekotlinmvvm.utils.exts.inflateViewBinding
 import com.testnotification.basekotlinmvvm.utils.exts.registerEventBusBy
 import com.testnotification.basekotlinmvvm.utils.exts.remove

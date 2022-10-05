@@ -1,4 +1,4 @@
-package com.testnotification.basekotlinmvvm.base
+package com.testnotification.basekotlinmvvm.base.component
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,6 +10,7 @@ import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.FragmentManager
 import androidx.viewbinding.ViewBinding
 import com.testnotification.basekotlinmvvm.R
+import com.testnotification.basekotlinmvvm.utils.AppPreferences
 import com.testnotification.basekotlinmvvm.utils.exts.findFragment
 import com.testnotification.basekotlinmvvm.utils.exts.inflateViewBinding
 import com.testnotification.basekotlinmvvm.utils.exts.registerEventBusBy

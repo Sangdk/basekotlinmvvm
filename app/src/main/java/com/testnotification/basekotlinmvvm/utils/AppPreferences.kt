@@ -1,8 +1,7 @@
-package com.testnotification.basekotlinmvvm.base
+package com.testnotification.basekotlinmvvm.utils
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.testnotification.basekotlinmvvm.utils.App
 
 object AppPreferences {
     var preferences: SharedPreferences
